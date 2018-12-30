@@ -1,6 +1,6 @@
 token= NTE4Nzk0NDc4ODIwMTMwODM2.DwqkZg.fCzlaNa084V3_Ek7l8fqgJ10E4M
 owner= 320189318868238347 
 prefix= m
-game= Mr.♕
+game= Type | mhelp
 stayinchannel=true 
 songinstatus=true
