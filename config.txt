@@ -1,4 +1,4 @@
-token= NTE4Nzk0NDc4ODIwMTMwODM2.DwqkZg.fCzlaNa084V3_Ek7l8fqgJ10E4M
+token= NTE4Nzk0NDc4ODIwMTMwODM2.XQqFdA.9fSh6N6OcPRjCHMcy8plng4Sepo
 owner= 320189318868238347 
 prefix= m
 game= Type | mhelp
